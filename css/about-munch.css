@@ -1,0 +1,21 @@
+h1 {
+  color:salmon;
+  text-align: center;
+}
+ul {
+  background: wheat;
+}
+p {
+  text-decoration:underline dotted teal;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h2 {
+  color:sienna;
+}
+h3 {
+  color:royalblue;
+}
+body {
+  border: 2px solid black;
+  padding: 10px;
+}
