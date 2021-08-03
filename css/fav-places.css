@@ -1,0 +1,15 @@
+h1 {
+  color:green;
+  text-align:center;
+  font-size:60px;
+}
+h2 {
+  text-align:center;
+}
+p {
+  font-family:Helvetica;
+  text-align:center;
+}
+ul {
+  font-style: italic;
+}
