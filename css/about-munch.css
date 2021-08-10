@@ -4,9 +4,12 @@
 }
 
 .dark-background {
-  display: none;
   background-color: black;
   color: greenyellow;
+}
+
+#darkButton {
+  display: none;
 }
 
 h1 {
